@@ -1,0 +1,11 @@
+ Volume in drive D has no label.
+ Volume Serial Number is D4F5-1768
+
+ Directory of D:\Setup\Auto setup data\git_project
+
+02/07/2022  03:20 PM    <DIR>          .
+02/07/2022  03:20 PM    <DIR>          ..
+02/07/2022  03:17 PM                 0 durga.html.txt
+02/07/2022  03:20 PM                 0 text1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  154,228,097,024 bytes free
